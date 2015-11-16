@@ -8,4 +8,4 @@
 [https://github.com/oscarcpozas/Weather](https://github.com/oscarcpozas/Weather)
 
 ### GDG Burgos
-[https://github.com/rober920/Android-Study-Jams](https://github.com/rober920/Android-Study-Jams﻿)
+[https://github.com/rober920/Android-Study-Jams](https://github.com/rober920/Android-Study-Jams)
