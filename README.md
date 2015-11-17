@@ -9,3 +9,7 @@
 
 ### GDG Burgos
 [https://github.com/rober920/Android-Study-Jams](https://github.com/rober920/Android-Study-Jams)
+
+### GDG Valencia
+
+[https://github.com/ricardogarfe/Sunshine](https://github.com/ricardogarfe/Sunshine)
